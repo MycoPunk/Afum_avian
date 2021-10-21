@@ -18,7 +18,7 @@ library(usmap)
 library(cowplot)
 
 
-setwd("~/data")
+setwd("~../data")
 options(stringsAsFactors = FALSE)
 
 #read in tree
