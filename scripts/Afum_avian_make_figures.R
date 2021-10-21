@@ -1,6 +1,4 @@
 #make figures for A.fum_avian
-#for net tree see:
-#https://cran.r-project.org/web/packages/phangorn/vignettes/IntertwiningTreesAndNetworks.html
 
 #set packages 
 library(data.table)
