@@ -1,0 +1,51 @@
+STRAIN_NAME	CASE	state_abrev	state	ACC	HOST	HOST_COMMON_NAME	HOST_FAMILY	HOST_ORDER	HOST_ECOLOGY	TISSUE	Aspergillosis	Aspergillosis Event	Event	Date Collected	year collected	State	County
+USGS_25297_1_HI	25297	HI	hawaii	1	Branta sandvicensis	"Goose, Nene"	Anatidae	Anseriformes	water bird	air sac	UNKNOWN	UNKNOWN	1	2/2/16	2016	HI	Kauai
+USGS_25404_1_HI	25404	HI	hawaii	1	Puffinus newelli	"Shearwater, Newell's"	Procellariidae	Procellariiformes	sea bird	heart	UNKNOWN	UNKNOWN	2	10/28/16	2016	HI	Kauai
+USGS_26080_10_WA	26080	WA	washington	10	Anas platyrhynchos	"Duck, Mallard"	Anatidae	Anseriformes	water bird	lung	TRUE	TRUE	3	12/8/14	2014	WA	Whatcom
+USGS_26080_3_WA	26080	WA	washington	3	Mareca americana	"Duck, American Wigeon"	Anatidae	Anseriformes	water bird	lung	TRUE	TRUE	3	12/8/14	2014	WA	Whatcom
+USGS_26080_6_WA	26080	WA	washington	6	Anas platyrhynchos	"Duck, Mallard"	Anatidae	Anseriformes	water bird	lung	TRUE	TRUE	3	12/8/14	2014	WA	Whatcom
+USGS_26090_1_WA	26090	WA	washington	1	Cygnus columbianus	"Swan, Whistling"	Anatidae	Anseriformes	water bird	air sac	TRUE	TRUE	3	12/16/14	2014	WA	Whatcom
+USGS_26090_2_WA	26090	WA	washington	2	Cygnus buccinator	"Swan, Trumpeter"	Anatidae	Anseriformes	water bird	liver	TRUE	TRUE	3	12/16/14	2014	WA	Whatcom
+USGS_26090_3_WA	26090	WA	washington	3	Anas acuta	"Duck, Northern Pintail"	Anatidae	Anseriformes	water bird	liver	TRUE	TRUE	3	12/16/14	2014	WA	Whatcom
+USGS_26090_4_WA	26090	WA	washington	4	Mareca americana	"Duck, American Wigeon"	Anatidae	Anseriformes	water bird	liver	TRUE	TRUE	3	12/16/14	2014	WA	Whatcom
+USGS_26090_5_WA	26090	WA	washington	5	Mareca americana	"Duck, American Wigeon"	Anatidae	Anseriformes	water bird	liver	TRUE	TRUE	3	12/16/14	2014	WA	Whatcom
+USGS_26090_7_WA	26090	WA	washington	7	Anas platyrhynchos	"Duck, Mallard"	Anatidae	Anseriformes	water bird	lung	TRUE	TRUE	3	12/16/14	2014	WA	Whatcom
+USGS_26090_8_WA	26090	WA	washington	8	Anas platyrhynchos	"Duck, Mallard"	Anatidae	Anseriformes	water bird	liver	TRUE	TRUE	3	12/16/14	2014	WA	Whatcom
+USGS_26113_1_WA	26113	WA	washington	1	Phalacrocorax auritus	"Cormorant, Double-crested"	Phalacrocoracidae	Suliformes	sea bird	lung	TRUE	TRUE	3	1/6/15	2015	WA	Whatcom
+USGS_26201_1_WA	26201	WA	washington	1	Cygnus buccinator	"Swan, Trumpeter"	Anatidae	Anseriformes	water bird	air sac	TRUE	TRUE	3	1/11/15	2015	WA	Clallam
+USGS_26218_1_MT	26218	MT	montana	1	Anas platyrhynchos	"Duck, Mallard"	Anatidae	Anseriformes	water bird	liver	TRUE	TRUE	5	2/6/15	2015	MT	Yellowstone
+USGS_26218_2_MT	26218	MT	montana	2	Anas platyrhynchos	"Duck, Mallard"	Anatidae	Anseriformes	water bird	lung	TRUE	TRUE	5	2/6/15	2015	MT	Yellowstone
+USGS_26218_3_MT	26218	MT	montana	3	Anas platyrhynchos	"Duck, Mallard"	Anatidae	Anseriformes	water bird	lung	TRUE	TRUE	5	2/6/15	2015	MT	Yellowstone
+USGS_26222_1_NV	26222	NV	nevada	1	Buteo jamaicensis	"Hawk, Red-tailed"	Accipitridae	Accipitriformes	raptor	lung	TRUE	FALSE	6	2/3/15	2015	NV	Douglas
+USGS_26501_1_MN	26501	MN	minnesota	1	Larus smithsonianus	"Gull, American Herring"	Laridae	Charadriiformes	water bird	air sac	TRUE	FALSE	7	5/26/15	2015	MN	Lake
+USGS_26516_1_IL	26516	IL	illinois	1	Cygnus olor	"Swan, Mute"	Anatidae	Anseriformes	water bird	liver	TRUE	FALSE	8	5/27/15	2015	IL	Lake
+USGS_26528_1_WI	26528	WI	wisconsin	1	Haliaeetus leucocephalus	"Eagle, Bald"	Accipitridae	Accipitriformes	raptor	air sac	TRUE	FALSE	9	5/20/15	2015	WI	Milwaukee
+USGS_26624_1_OH	26624	OH	ohio	1	Branta canadensis	"Goose, Canada"	Anatidae	Anseriformes	water bird	heart	TRUE	TRUE	11	7/5/15	2015	OH	Logan
+USGS_26624_4_OH	26624	OH	ohio	4	Branta canadensis	"Goose, Canada"	Anatidae	Anseriformes	water bird	heart	TRUE	TRUE	11	7/9/15	2015	OH	Logan
+USGS_26655_4_WI	26555	WI	wyoming	4	Larus delawarensis	"Gull, Ring-billed"	Laridae	Charadriiformes	water bird	neck muscle	TRUE	FALSE	10	12/20/14	2014	WI	Brown
+USGS_26696_1_WI	26696	WI	wisconsin	1	Branta canadensis	"Goose, Canada"	Anatidae	Anseriformes	water bird	lung	TRUE	TRUE	12	8/6/15	2015	WI	Dodge
+USGS_26696_2_WI	26696	WI	wisconsin	2	Branta canadensis	"Goose, Canada"	Anatidae	Anseriformes	water bird	lung	TRUE	TRUE	12	8/6/15	2015	WI	Dodge
+USGS_26707_2_ND	26707	ND	north dakota	2	Leucophaeus pipixcan	"Gull, Franklin's"	Laridae	Charadriiformes	water bird	air sac	TRUE	FALSE	13	8/11/15	2015	ND	Burleigh
+USGS_26829_1_WI	26829	WI	wisconsin	1	Branta canadensis	"Goose, Canada"	Anatidae	Anseriformes	water bird	lung/air sac pooled	TRUE	TRUE	14	10/8/15	2015	WI	Dane
+USGS_26829_2_WI	26829	WI	wisconsin	2	Branta canadensis	"Goose, Canada"	Anatidae	Anseriformes	water bird	lung	TRUE	TRUE	14	10/8/15	2015	WI	Dane
+USGS_26835_1_MI	26835	MI	michigan	1	Larus smithsonianus	"Gull, American Herring"	Laridae	Charadriiformes	water bird	liver	TRUE	FALSE	15	8/17/15	2015	MI	Leelanau
+USGS_26879_1_WI	26879	WI	wisconsin	1	Bubo scandiacus	"Owl, Snowy"	Strigidae	Strigiformes	raptor	air sac	TRUE	FALSE	16	10/25/15	2015	WI	Ashland
+USGS_27510_1_FL	27510	FL	florida	1	Leucophaeus atricilla	"Gull, Laughing"	Laridae	Charadriiformes	water bird	air sac	TRUE	TRUE	17	8/23/16	2016	FL	Bay
+USGS_27539_1_ME	27539	ME	maine	1	Larus smithsonianus	"Gull, American Herring"	Laridae	Charadriiformes	water bird	lung	TRUE	FALSE	18	9/12/16	2016	ME	Knox
+USGS_27540_1_ME	27540	ME	maine	1	Larus marinus	"Gull, Great Black-backed"	Laridae	Charadriiformes	water bird	lung	TRUE	FALSE	19	9/14/16	2016	ME	Cumberland
+USGS_27562_1_MD	27562	MD	maryland	1	Leucophaeus atricilla	"Gull, Laughing"	Laridae	Charadriiformes	water bird	air sac	TRUE	FALSE	20	9/27/16	2016	MD	Baltimore
+USGS_27717_1_WA	27717	WA	washington	1	Circus hudsonius	"Harrier, Northern"	Accipitridae	Accipitriformes	raptor	lung	TRUE	FALSE	21	1/23/17	2017	WA	Walla Walla
+USGS_27721_1_KS	27721	KS	kansas	1	Haliaeetus leucocephalus	"Eagle, Bald"	Accipitridae	Accipitriformes	raptor	lung	TRUE	FALSE	22	1/21/17	2017	KS	Reno
+USGS_27784_1_SC	27784	SC	south carolina	1	Haliaeetus leucocephalus	"Eagle, Bald"	Accipitridae	Accipitriformes	raptor	air sac	TRUE	FALSE	23	2/18/17	2017	SC	Berkeley
+USGS_28113_1_MA	28113	MA	massachusetts	1	Sterna hitundo	"Tern, Common"	Laridae	Charadriiformes	water bird	lung/air sac pooled	TRUE	FALSE	24	5/22/17	2017	MA	Barnstable
+USGS_28253_1_SC	28253	SC	south carolina	1	Melanitta americana	"Duck, Black Scoter"	Anatidae	Anseriformes	sea bird	air sac	TRUE	UNKNOWN	25	5/3/17	2017	SC	Charleston
+USGS_28267_1_CA	28267	CA	california	1	Brachyramphus marmoratus	"Murrelet, Marbled"	Alcidae	Charadriiformes	sea bird	air sac	TRUE	FALSE	26	7/7/17	2017	CA	Del Norte
+USGS_28426_1_NE	28426	NE	nebraska	1	Anas platyrhynchos	"Duck, Mallard"	Anatidae	Anseriformes	water bird	lung	TRUE	TRUE	27	1/7/18	2018	NE	Scotts Bluff
+USGS_28429_3_MN	28429	MN	minnesota	3	Anas platyrhynchos	"Duck, Mallard"	Anatidae	Anseriformes	water bird	lung	TRUE	TRUE	28	1/9/18	2018	MN	Dakota
+USGS_28834_1_NV	28834	NV	nevada	1	Larus sp.	"Gull, Unidentified"	Laridae	Charadriiformes	water bird	air sac	TRUE	FALSE	29	7/24/18	2018	NV	Washoe
+USGS_28858_1_WI	28858	WI	wisconsin	1	Larus smithsonianus	"Gull, American Herring"	Laridae	Charadriiformes	water bird	air sac	TRUE	FALSE	30	7/18/18	2018	WI	Ashland
+USGS_28913_1_MS	28913	MS	mississippi	1	Leucophaeus atricilla	"Gull, Laughing"	Laridae	Charadriiformes	water bird	air sac	TRUE	TRUE	31	8/29/18	2018	MS	Harrison
+USGS_28913_2_MS	28913	MS	mississippi	2	Leucophaeus atricilla	"Gull, Laughing"	Laridae	Charadriiformes	water bird	liver	TRUE	TRUE	31	8/29/18	2018	MS	Harrison
+USGS_29376_1_WI	29376	WI	wisconsin	1	Haliaeetus leucocephalus	"Eagle, Bald"	Accipitridae	Accipitriformes	raptor	air sac	TRUE	FALSE	32	8/27/19	2019	WI	La Crosse
+USGS_29436_1_MA	29436	MA	massachusetts	1	Larus smithsonianus	"Gull, American Herring"	Laridae	Charadriiformes	water bird	air sac	TRUE	TRUE	33	10/7/19	2019	MA	Essex
+USGS_29436_2_MA	29436	MA	massachusetts	2	Larus smithsonianus	"Gull, American Herring"	Laridae	Charadriiformes	water bird	air sac	TRUE	TRUE	33	10/7/19	2019	MA	Essex
