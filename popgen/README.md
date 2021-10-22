@@ -11,7 +11,7 @@ Files that need to be updated
     * There is a PREFIX variable in config.txt which can be used to set the prefix of all output names, change this as you update your datasets so you can generate new results without overwriting old when generating combined VCF files.  Generally the scripts try to not re-run an analysis by checking if an output file already exists. So if you need to re-do an analysis remove files in the vcf, gvcf, or cram/aln folders.
 
 # Steps
-These are analysis pipeline steps intended to be run on slurm queueing system. The software is configured on the UCR HPCC system with UNIX modules. However any setup with existing conda install.
+These are analysis pipeline steps intended to be run on slurm queueing system. The software is configured on the UCR HPCC system with UNIX modules. 
 
 ## Initialization
 This step only needs to be run once.
