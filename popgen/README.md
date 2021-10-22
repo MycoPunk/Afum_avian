@@ -1,5 +1,5 @@
 This is a pipeline templated on the Stajich Lab Popgen pipeline for A.fumigatus. The definitive version can be found at https://github.com/stajichlab/PopGenomics_Afumigatus_Global
-The conde contained in this repo captures the version used for analysis in the A. fumigatus avian project 2021. 
+The code contained in this repo captures the version used for analysis in the A. fumigatus avian project 2021. 
 
 
 ##
