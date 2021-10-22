@@ -1,0 +1,14 @@
+GENOMEFOLDER=genome
+GENOMEFASTA=Af293.fasta
+REFGENOME=genome/FungiDB-39_AfumigatusAf293_Genome.fasta
+GENOMENAME=Af293
+SAMPLESINFO=samples.csv
+ASMEXT=fasta
+GVCFFOLDER=gvcf
+TREEDIR=strain_tree
+GATKVERSION=4
+FINALVCF=vcf
+PREFIX=Avian_CIFAR_7
+REFNAME=Af293-REF
+SLICEVCF=vcf_slice
+POPYAML=population_sets.yaml
